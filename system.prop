@@ -107,3 +107,10 @@ com.qc.hdmi_out=true
 ro.hdmi.enable=true
 debug.sf.hw=1
 debug.composition.type=dyn
+
+# hardware info
+ro.device.cpu=1.5 GHz dual-core Qualcomm APQ8060 (S3) Snapdragon
+ro.device.gpu=Qualcomm Adreno 220
+ro.device.rear_cam=8 MP
+ro.device.front_cam=2 MP
+ro.device.screen_res=480x800
